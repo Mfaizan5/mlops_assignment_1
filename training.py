@@ -42,7 +42,7 @@ for name, model in models.items():
         mlflow.log_metric("recall", rec)
         mlflow.log_metric("f1_score", f1)
 
-        # Save themodel
+        # Save the model
         os.makedirs("../models", exist_ok=True)
         model_path = f"../models/{name}.pkl"
         mlflow.sklearn.save_model(model, model_path)
