@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ikon/Desktop/mlops_assignment_1/mlruns/687353532306396857/2b71a94cf06e461fb048282acecd0e50/artifacts
+end_time: 1758189454487
+entry_point_name: ''
+experiment_id: '687353532306396857'
+lifecycle_stage: active
+run_id: 2b71a94cf06e461fb048282acecd0e50
+run_name: LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758189454356
+status: 4
+tags: []
+user_id: ikon
