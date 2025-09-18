@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/ikon/Desktop/mlops_assignment_1/mlruns/706474006210980463/models/m-230c39c90880479599be4a6eb9dca9af/artifacts
+creation_timestamp: 1758192506012
+experiment_id: '706474006210980463'
+last_updated_timestamp: 1758192509701
+model_id: m-230c39c90880479599be4a6eb9dca9af
+model_type: null
+name: model
+source_run_id: 35790435714c4d0786f8dfa9cc42c788
+status: 2
+status_message: null

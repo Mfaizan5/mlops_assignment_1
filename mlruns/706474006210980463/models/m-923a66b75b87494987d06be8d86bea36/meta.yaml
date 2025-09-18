@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/ikon/Desktop/mlops_assignment_1/mlruns/706474006210980463/models/m-923a66b75b87494987d06be8d86bea36/artifacts
+creation_timestamp: 1758192252094
+experiment_id: '706474006210980463'
+last_updated_timestamp: 1758192256400
+model_id: m-923a66b75b87494987d06be8d86bea36
+model_type: null
+name: LogisticRegression
+source_run_id: 3ed5eb4f5e104dd280b6aca6cd1fba79
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ikon/Desktop/mlops_assignment_1/mlruns/706474006210980463/9e9ca496f6f2427abb08c5590c6aa07b/artifacts
+end_time: 1758192497707
+entry_point_name: ''
+experiment_id: '706474006210980463'
+lifecycle_stage: active
+run_id: 9e9ca496f6f2427abb08c5590c6aa07b
+run_name: RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758192488883
+status: 3
+tags: []
+user_id: ikon

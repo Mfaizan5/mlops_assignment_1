@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ikon/Desktop/mlops_assignment_1/mlruns/706474006210980463/c6f2ff9b22754d7e891b61d9190b6fc3/artifacts
+end_time: 1758192276666
+entry_point_name: ''
+experiment_id: '706474006210980463'
+lifecycle_stage: active
+run_id: c6f2ff9b22754d7e891b61d9190b6fc3
+run_name: SVM
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758192267049
+status: 3
+tags: []
+user_id: ikon
